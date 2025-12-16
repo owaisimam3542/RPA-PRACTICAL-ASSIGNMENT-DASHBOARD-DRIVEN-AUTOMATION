@@ -1,0 +1,568 @@
+2025-12-16 11:14:44,106 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-16 11:14:44,106 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-16 11:14:44,106 - INFO -  * Restarting with stat
+2025-12-16 11:14:44,841 - WARNING -  * Debugger is active!
+2025-12-16 11:14:44,844 - INFO -  * Debugger PIN: 282-827-810
+2025-12-16 11:16:32,969 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-16 11:16:32,969 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-16 11:16:32,969 - INFO -  * Restarting with stat
+2025-12-16 11:16:33,603 - WARNING -  * Debugger is active!
+2025-12-16 11:16:33,603 - INFO -  * Debugger PIN: 282-827-810
+2025-12-16 11:20:14,778 - INFO - 127.0.0.1 - - [16/Dec/2025 11:20:14] "GET / HTTP/1.1" 200 -
+2025-12-16 11:20:15,203 - INFO - 127.0.0.1 - - [16/Dec/2025 11:20:15] "GET /static/style.css HTTP/1.1" 200 -
+2025-12-16 11:20:54,358 - INFO - ====== WebDriver manager ======
+2025-12-16 11:20:58,393 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 11:20:58,725 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 11:20:58,815 - INFO - There is no [win64] chromedriver "143.0.7499.42" for browser google-chrome "143.0.7499" in cache
+2025-12-16 11:20:58,815 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 11:20:59,099 - INFO - WebDriver version 143.0.7499.42 selected
+2025-12-16 11:20:59,104 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.42/win32/chromedriver-win32.zip
+2025-12-16 11:20:59,104 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.42/win32/chromedriver-win32.zip
+2025-12-16 11:20:59,290 - INFO - Driver downloading response is 200
+2025-12-16 11:21:00,867 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 11:21:03,790 - INFO - Driver has been saved in cache [C:\Users\hp\.wdm\drivers\chromedriver\win64\143.0.7499.42]
+2025-12-16 11:21:08,227 - INFO - Opening OrangeHRM
+2025-12-16 11:21:26,396 - INFO - Login successful
+2025-12-16 11:21:34,212 - INFO - Employee added
+2025-12-16 11:21:39,155 - ERROR - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Employee List']"}
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xb20d13
+	0xb20d54
+	0x90e6dd
+	0x9593a5
+	0x95977b
+	0x9a0382
+	0x97b534
+	0x99db13
+	0x97b2e6
+	0x94d321
+	0x94e1d4
+	0xd74d54
+	0xd7030b
+	0xd8cbea
+	0xb3ac18
+	0xb42c1d
+	0xb29018
+	0xb291d9
+	0xb13568
+	0x756d5d49
+	0x77c2d5db
+	0x77c2d561
+
+2025-12-16 11:21:41,645 - INFO - 127.0.0.1 - - [16/Dec/2025 11:21:41] "POST / HTTP/1.1" 200 -
+2025-12-16 11:21:41,716 - INFO - 127.0.0.1 - - [16/Dec/2025 11:21:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-12-16 14:40:21,521 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-16 14:40:21,522 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-16 14:40:21,525 - INFO -  * Restarting with stat
+2025-12-16 14:40:22,218 - WARNING -  * Debugger is active!
+2025-12-16 14:40:22,222 - INFO -  * Debugger PIN: 282-827-810
+2025-12-16 14:41:05,543 - INFO - 127.0.0.1 - - [16/Dec/2025 14:41:05] "GET / HTTP/1.1" 200 -
+2025-12-16 14:41:05,887 - INFO - 127.0.0.1 - - [16/Dec/2025 14:41:05] "GET /static/style.css HTTP/1.1" 200 -
+2025-12-16 14:41:05,960 - INFO - 127.0.0.1 - - [16/Dec/2025 14:41:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-16 14:43:29,113 - INFO - 127.0.0.1 - - [16/Dec/2025 14:43:29] "GET / HTTP/1.1" 200 -
+2025-12-16 14:43:29,223 - INFO - 127.0.0.1 - - [16/Dec/2025 14:43:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-12-16 14:43:36,236 - INFO - ====== WebDriver manager ======
+2025-12-16 14:43:39,592 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 14:43:40,103 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 14:43:40,333 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-16 14:43:44,377 - INFO - Opening OrangeHRM
+2025-12-16 14:43:50,580 - INFO - Login successful
+2025-12-16 14:43:59,104 - ERROR - 'NoneType' object has no attribute 'is_displayed'
+2025-12-16 14:44:02,217 - INFO - 127.0.0.1 - - [16/Dec/2025 14:44:02] "POST / HTTP/1.1" 200 -
+2025-12-16 14:44:02,581 - INFO - 127.0.0.1 - - [16/Dec/2025 14:44:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-12-16 14:44:36,119 - INFO - 127.0.0.1 - - [16/Dec/2025 14:44:36] "GET / HTTP/1.1" 200 -
+2025-12-16 14:44:36,653 - INFO - 127.0.0.1 - - [16/Dec/2025 14:44:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-12-16 14:45:10,567 - INFO - ====== WebDriver manager ======
+2025-12-16 14:45:13,524 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 14:45:13,765 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 14:45:13,982 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-16 14:45:15,728 - INFO - Opening OrangeHRM
+2025-12-16 14:45:23,370 - INFO - Login successful
+2025-12-16 14:45:38,701 - ERROR - Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x4b0d13
+	0x4b0d54
+	0x29e6dd
+	0x2e93a5
+	0x2e977b
+	0x330382
+	0x30b534
+	0x32db13
+	0x30b2e6
+	0x2dd321
+	0x2de1d4
+	0x704d54
+	0x70030b
+	0x71cbea
+	0x4cac18
+	0x4d2c1d
+	0x4b9018
+	0x4b91d9
+	0x4a3568
+	0x756d5d49
+	0x77c2d5db
+	0x77c2d561
+
+2025-12-16 14:45:42,092 - INFO - 127.0.0.1 - - [16/Dec/2025 14:45:42] "POST / HTTP/1.1" 200 -
+2025-12-16 14:45:42,133 - INFO - 127.0.0.1 - - [16/Dec/2025 14:45:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-12-16 14:45:58,395 - INFO - ====== WebDriver manager ======
+2025-12-16 14:46:01,047 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 14:46:01,310 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 14:46:01,710 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-16 14:46:03,209 - INFO - Opening OrangeHRM
+2025-12-16 14:46:10,561 - INFO - Login successful
+2025-12-16 14:46:16,587 - INFO - Employee added
+2025-12-16 14:46:21,666 - ERROR - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Employee List']"}
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x4b0d13
+	0x4b0d54
+	0x29e6dd
+	0x2e93a5
+	0x2e977b
+	0x330382
+	0x30b534
+	0x32db13
+	0x30b2e6
+	0x2dd321
+	0x2de1d4
+	0x704d54
+	0x70030b
+	0x71cbea
+	0x4cac18
+	0x4d2c1d
+	0x4b9018
+	0x4b91d9
+	0x4a3568
+	0x756d5d49
+	0x77c2d5db
+	0x77c2d561
+
+2025-12-16 14:46:24,334 - INFO - 127.0.0.1 - - [16/Dec/2025 14:46:24] "POST / HTTP/1.1" 200 -
+2025-12-16 14:46:24,421 - INFO - 127.0.0.1 - - [16/Dec/2025 14:46:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-12-16 14:46:31,139 - INFO - ====== WebDriver manager ======
+2025-12-16 14:46:34,076 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 14:46:34,366 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 14:46:34,676 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-16 14:46:36,289 - INFO - Opening OrangeHRM
+2025-12-16 14:46:43,715 - INFO - Login successful
+2025-12-16 14:46:50,643 - INFO - Employee added
+2025-12-16 14:46:56,382 - ERROR - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Employee List']"}
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x4b0d13
+	0x4b0d54
+	0x29e6dd
+	0x2e93a5
+	0x2e977b
+	0x330382
+	0x30b534
+	0x32db13
+	0x30b2e6
+	0x2dd321
+	0x2de1d4
+	0x704d54
+	0x70030b
+	0x71cbea
+	0x4cac18
+	0x4d2c1d
+	0x4b9018
+	0x4b91d9
+	0x4a3568
+	0x756d5d49
+	0x77c2d5db
+	0x77c2d561
+
+2025-12-16 14:46:59,676 - INFO - 127.0.0.1 - - [16/Dec/2025 14:46:59] "POST / HTTP/1.1" 200 -
+2025-12-16 14:46:59,719 - INFO - 127.0.0.1 - - [16/Dec/2025 14:46:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-12-16 14:47:14,191 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-16 14:47:14,192 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-16 14:47:14,199 - INFO -  * Restarting with stat
+2025-12-16 14:47:16,959 - WARNING -  * Debugger is active!
+2025-12-16 14:47:16,973 - INFO -  * Debugger PIN: 282-827-810
+2025-12-16 14:47:19,068 - INFO - 127.0.0.1 - - [16/Dec/2025 14:47:19] "GET / HTTP/1.1" 200 -
+2025-12-16 14:47:19,308 - INFO - 127.0.0.1 - - [16/Dec/2025 14:47:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-12-16 14:47:31,765 - INFO - ====== WebDriver manager ======
+2025-12-16 14:47:34,699 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 14:47:34,958 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 14:47:35,189 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-16 14:47:36,784 - INFO - Opening OrangeHRM
+2025-12-16 14:47:42,240 - INFO - Login successful
+2025-12-16 14:47:49,522 - INFO - Employee added
+2025-12-16 14:47:54,588 - ERROR - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Employee List']"}
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x4b0d13
+	0x4b0d54
+	0x29e6dd
+	0x2e93a5
+	0x2e977b
+	0x330382
+	0x30b534
+	0x32db13
+	0x30b2e6
+	0x2dd321
+	0x2de1d4
+	0x704d54
+	0x70030b
+	0x71cbea
+	0x4cac18
+	0x4d2c1d
+	0x4b9018
+	0x4b91d9
+	0x4a3568
+	0x756d5d49
+	0x77c2d5db
+	0x77c2d561
+
+2025-12-16 14:47:58,018 - INFO - 127.0.0.1 - - [16/Dec/2025 14:47:58] "POST / HTTP/1.1" 200 -
+2025-12-16 14:47:58,380 - INFO - 127.0.0.1 - - [16/Dec/2025 14:47:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-12-16 14:49:14,846 - INFO -  * Detected change in 'C:\\Users\\hp\\Downloads\\Django_Login_System-main\\orange_hrm_automation\\automation.py', reloading
+2025-12-16 14:49:15,265 - INFO -  * Restarting with stat
+2025-12-16 14:49:17,994 - WARNING -  * Debugger is active!
+2025-12-16 14:49:18,032 - INFO -  * Debugger PIN: 282-827-810
+2025-12-16 14:49:25,400 - INFO -  * Detected change in 'C:\\Users\\hp\\Downloads\\Django_Login_System-main\\orange_hrm_automation\\automation.py', reloading
+2025-12-16 14:49:25,599 - INFO -  * Restarting with stat
+2025-12-16 14:49:27,609 - WARNING -  * Debugger is active!
+2025-12-16 14:49:27,617 - INFO -  * Debugger PIN: 282-827-810
+2025-12-16 14:49:39,203 - INFO - ====== WebDriver manager ======
+2025-12-16 14:49:42,809 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 14:49:43,094 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 14:49:43,371 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-16 14:49:44,870 - INFO - Opening OrangeHRM
+2025-12-16 14:49:45,925 - ERROR - Message: target frame detached: received Inspector.detached event
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=143.0.7499.42)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x4b0d13
+	0x4b0d54
+	0x29e6dd
+	0x29020e
+	0x28f3f7
+	0x28ed71
+	0x28ea85
+	0x28c94f
+	0x28d31a
+	0x2a2451
+	0x32e704
+	0x30b4ec
+	0x32db13
+	0x30b2e6
+	0x2dd321
+	0x2de1d4
+	0x704d54
+	0x70030b
+	0x71cbea
+	0x4cac18
+	0x4d2c1d
+	0x4b9018
+	0x4b91d9
+	0x4a3568
+	0x756d5d49
+	0x77c2d5db
+	0x77c2d561
+
+2025-12-16 14:49:48,468 - INFO - 127.0.0.1 - - [16/Dec/2025 14:49:48] "POST / HTTP/1.1" 200 -
+2025-12-16 14:49:51,467 - INFO - 127.0.0.1 - - [16/Dec/2025 14:49:51] "GET / HTTP/1.1" 200 -
+2025-12-16 14:49:51,704 - INFO - 127.0.0.1 - - [16/Dec/2025 14:49:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-12-16 14:50:02,903 - INFO - ====== WebDriver manager ======
+2025-12-16 14:50:05,480 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 14:50:05,773 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 14:50:05,989 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-16 14:50:07,431 - INFO - Opening OrangeHRM
+2025-12-16 14:50:13,312 - INFO - Login successful
+2025-12-16 14:50:20,186 - INFO - Employee added
+2025-12-16 14:50:42,421 - ERROR - Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x4b0d13
+	0x4b0d54
+	0x29e6dd
+	0x2e93a5
+	0x2e977b
+	0x330382
+	0x30b534
+	0x32db13
+	0x30b2e6
+	0x2dd321
+	0x2de1d4
+	0x704d54
+	0x70030b
+	0x71cbea
+	0x4cac18
+	0x4d2c1d
+	0x4b9018
+	0x4b91d9
+	0x4a3568
+	0x756d5d49
+	0x77c2d5db
+	0x77c2d561
+
+2025-12-16 14:50:45,387 - INFO - 127.0.0.1 - - [16/Dec/2025 14:50:45] "POST / HTTP/1.1" 200 -
+2025-12-16 14:50:46,194 - INFO - 127.0.0.1 - - [16/Dec/2025 14:50:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-12-16 14:51:59,110 - INFO -  * Detected change in 'C:\\Users\\hp\\Downloads\\Django_Login_System-main\\orange_hrm_automation\\automation.py', reloading
+2025-12-16 14:51:59,294 - INFO -  * Restarting with stat
+2025-12-16 14:52:01,786 - WARNING -  * Debugger is active!
+2025-12-16 14:52:01,792 - INFO -  * Debugger PIN: 282-827-810
+2025-12-16 14:53:22,002 - INFO -  * Detected change in 'C:\\Users\\hp\\Downloads\\Django_Login_System-main\\orange_hrm_automation\\automation.py', reloading
+2025-12-16 14:53:22,276 - INFO -  * Restarting with stat
+2025-12-16 14:55:58,369 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-16 14:55:58,370 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-16 14:55:58,371 - INFO -  * Restarting with stat
+2025-12-16 14:55:59,491 - WARNING -  * Debugger is active!
+2025-12-16 14:55:59,495 - INFO -  * Debugger PIN: 282-827-810
+2025-12-16 14:56:06,571 - INFO - ====== WebDriver manager ======
+2025-12-16 14:56:09,661 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 14:56:10,057 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 14:56:10,294 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-16 14:56:13,960 - INFO - Opening OrangeHRM website
+2025-12-16 14:56:14,404 - INFO - 127.0.0.1 - - [16/Dec/2025 14:56:14] "GET / HTTP/1.1" 200 -
+2025-12-16 14:56:18,314 - INFO - 127.0.0.1 - - [16/Dec/2025 14:56:18] "GET / HTTP/1.1" 200 -
+2025-12-16 14:56:19,391 - INFO - 127.0.0.1 - - [16/Dec/2025 14:56:19] "GET /static/style.css HTTP/1.1" 200 -
+2025-12-16 14:56:19,391 - INFO - 127.0.0.1 - - [16/Dec/2025 14:56:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-12-16 14:56:22,459 - INFO - 127.0.0.1 - - [16/Dec/2025 14:56:22] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-12-16 14:56:34,797 - INFO - ====== WebDriver manager ======
+2025-12-16 14:56:36,593 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 14:56:36,866 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 14:56:37,157 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-16 14:56:38,464 - INFO - Opening OrangeHRM website
+2025-12-16 14:56:43,117 - INFO - Login successful
+2025-12-16 14:56:46,249 - INFO - Navigated to PIM
+2025-12-16 14:56:48,340 - INFO - Employee saved
+2025-12-16 14:56:57,830 - INFO - Employee list loaded
+2025-12-16 14:56:58,084 - INFO - Extracted 6 employees
+2025-12-16 14:56:58,254 - ERROR - Automation failed
+Traceback (most recent call last):
+  File "C:\Users\hp\Downloads\Django_Login_System-main\orange_hrm_automation\automation.py", line 108, in run_automation
+    df.to_excel("exports/employees.xlsx", index=False)
+  File "C:\Users\hp\Downloads\Django_Login_System-main\orange_hrm_automation\venv\Lib\site-packages\pandas\util\_decorators.py", line 333, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Downloads\Django_Login_System-main\orange_hrm_automation\venv\Lib\site-packages\pandas\core\generic.py", line 2439, in to_excel
+    formatter.write(
+  File "C:\Users\hp\Downloads\Django_Login_System-main\orange_hrm_automation\venv\Lib\site-packages\pandas\io\formats\excel.py", line 943, in write
+    writer = ExcelWriter(
+             ^^^^^^^^^^^^
+  File "C:\Users\hp\Downloads\Django_Login_System-main\orange_hrm_automation\venv\Lib\site-packages\pandas\io\excel\_openpyxl.py", line 57, in __init__
+    from openpyxl.workbook import Workbook
+ModuleNotFoundError: No module named 'openpyxl'
+2025-12-16 14:57:00,601 - INFO - 127.0.0.1 - - [16/Dec/2025 14:57:00] "POST / HTTP/1.1" 200 -
+2025-12-16 14:57:00,926 - INFO - 127.0.0.1 - - [16/Dec/2025 14:57:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-12-16 14:58:42,555 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-16 14:58:42,556 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-16 14:58:42,557 - INFO -  * Restarting with stat
+2025-12-16 14:58:44,682 - WARNING -  * Debugger is active!
+2025-12-16 14:58:44,687 - INFO -  * Debugger PIN: 282-827-810
+2025-12-16 14:58:58,988 - INFO - 127.0.0.1 - - [16/Dec/2025 14:58:58] "GET / HTTP/1.1" 200 -
+2025-12-16 14:58:59,177 - INFO - 127.0.0.1 - - [16/Dec/2025 14:58:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-12-16 14:59:16,314 - INFO - ====== WebDriver manager ======
+2025-12-16 14:59:18,258 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 14:59:18,581 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 14:59:18,799 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-16 14:59:20,214 - INFO - Opening OrangeHRM website
+2025-12-16 14:59:25,376 - INFO - Login successful
+2025-12-16 14:59:28,833 - INFO - Navigated to PIM
+2025-12-16 14:59:31,039 - INFO - Employee saved
+2025-12-16 14:59:41,023 - INFO - Employee list loaded
+2025-12-16 14:59:41,991 - INFO - Extracted 13 employees
+2025-12-16 14:59:42,706 - INFO - Employee data exported to CSV and Excel
+2025-12-16 14:59:44,264 - INFO - Logout successful
+2025-12-16 14:59:46,583 - INFO - 127.0.0.1 - - [16/Dec/2025 14:59:46] "POST / HTTP/1.1" 200 -
+2025-12-16 14:59:46,923 - INFO - 127.0.0.1 - - [16/Dec/2025 14:59:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-12-16 15:01:05,742 - INFO - ====== WebDriver manager ======
+2025-12-16 15:01:07,688 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 15:01:08,827 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 15:01:09,451 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-16 15:01:12,996 - INFO - Opening OrangeHRM website
+2025-12-16 15:01:21,526 - INFO - Login successful
+2025-12-16 15:01:26,101 - INFO - Navigated to PIM
+2025-12-16 15:01:29,527 - INFO - Employee saved
+2025-12-16 15:01:30,352 - INFO - 127.0.0.1 - - [16/Dec/2025 15:01:30] "GET / HTTP/1.1" 200 -
+2025-12-16 15:01:30,600 - INFO - 127.0.0.1 - - [16/Dec/2025 15:01:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-12-16 15:01:50,234 - ERROR - Automation failed
+Traceback (most recent call last):
+  File "C:\Users\hp\Downloads\Django_Login_System-main\orange_hrm_automation\automation.py", line 74, in run_automation
+    wait.until(EC.presence_of_element_located((By.XPATH, "//h6[text()='Personal Details']")))
+  File "C:\Users\hp\Downloads\Django_Login_System-main\orange_hrm_automation\venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 122, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1280d13
+	0x1280d54
+	0x106e6dd
+	0x10b93a5
+	0x10b977b
+	0x1100382
+	0x10db534
+	0x10fdb13
+	0x10db2e6
+	0x10ad321
+	0x10ae1d4
+	0x14d4d54
+	0x14d030b
+	0x14ecbea
+	0x129ac18
+	0x12a2c1d
+	0x1289018
+	0x12891d9
+	0x1273568
+	0x756d5d49
+	0x77c2d5db
+	0x77c2d561
+
+2025-12-16 15:01:52,847 - INFO - 127.0.0.1 - - [16/Dec/2025 15:01:52] "POST / HTTP/1.1" 200 -
+2025-12-16 15:02:18,853 - INFO - ====== WebDriver manager ======
+2025-12-16 15:02:20,486 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 15:02:21,198 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 15:02:22,256 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-16 15:02:23,528 - INFO - Opening OrangeHRM website
+2025-12-16 15:02:32,632 - INFO - Login successful
+2025-12-16 15:02:36,447 - INFO - Navigated to PIM
+2025-12-16 15:02:41,366 - ERROR - Automation failed
+Traceback (most recent call last):
+  File "C:\Users\hp\Downloads\Django_Login_System-main\orange_hrm_automation\automation.py", line 70, in run_automation
+    driver.find_element(By.XPATH, "//button[@type='submit']").click()
+  File "C:\Users\hp\Downloads\Django_Login_System-main\orange_hrm_automation\venv\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 114, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\hp\Downloads\Django_Login_System-main\orange_hrm_automation\venv\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 508, in _execute
+    return self._parent.execute(command, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Downloads\Django_Login_System-main\orange_hrm_automation\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 432, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\hp\Downloads\Django_Login_System-main\orange_hrm_automation\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <button data-v-10d463b7="" data-v-304890b0="" type="submit" class="oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space">...</button> is not clickable at point (1147, 495). Other element would receive the click: <div data-v-d5bfe35b="" class="oxd-form-loader">...</div>
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1280d13
+	0x1280d54
+	0x106e6dd
+	0x10bf8ef
+	0x10bdbdc
+	0x10bb6c2
+	0x10ba945
+	0x10af1c8
+	0x10db4ec
+	0x10aec34
+	0x10db6a4
+	0x10fdb13
+	0x10db2e6
+	0x10ad321
+	0x10ae1d4
+	0x14d4d54
+	0x14d030b
+	0x14ecbea
+	0x129ac18
+	0x12a2c1d
+	0x1289018
+	0x12891d9
+	0x1273568
+	0x756d5d49
+	0x77c2d5db
+	0x77c2d561
+
+2025-12-16 15:02:43,904 - INFO - 127.0.0.1 - - [16/Dec/2025 15:02:43] "POST / HTTP/1.1" 200 -
+2025-12-16 15:02:44,236 - INFO - 127.0.0.1 - - [16/Dec/2025 15:02:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-12-16 15:05:50,831 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-16 15:05:50,832 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-16 15:05:50,835 - INFO -  * Restarting with stat
+2025-12-16 15:07:36,575 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-16 15:07:36,575 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-16 15:07:36,579 - INFO -  * Restarting with stat
+2025-12-16 15:07:40,982 - WARNING -  * Debugger is active!
+2025-12-16 15:07:40,996 - INFO -  * Debugger PIN: 282-827-810
+2025-12-16 15:07:46,459 - INFO - 127.0.0.1 - - [16/Dec/2025 15:07:46] "GET / HTTP/1.1" 200 -
+2025-12-16 15:07:46,768 - INFO - 127.0.0.1 - - [16/Dec/2025 15:07:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-12-16 15:07:46,811 - INFO - 127.0.0.1 - - [16/Dec/2025 15:07:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-16 15:08:07,730 - INFO - ====== WebDriver manager ======
+2025-12-16 15:08:10,219 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 15:08:10,603 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 15:08:10,873 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-16 15:08:14,908 - INFO - Opening OrangeHRM website
+2025-12-16 15:08:20,858 - INFO - Login successful
+2025-12-16 15:08:24,029 - INFO - Navigated to PIM
+2025-12-16 15:08:26,561 - INFO - Employee saved
+2025-12-16 15:08:37,160 - INFO - Employee list loaded
+2025-12-16 15:08:39,328 - INFO - Extracted 22 employees
+2025-12-16 15:08:40,679 - ERROR - Automation failed
+Traceback (most recent call last):
+  File "C:\Users\hp\Downloads\Django_Login_System-main\orange_hrm_automation\automation.py", line 108, in run_automation
+    df.to_excel("exports/employees.xlsx", index=False)
+  File "C:\Users\hp\Downloads\Django_Login_System-main\orange_hrm_automation\venv\Lib\site-packages\pandas\util\_decorators.py", line 333, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\Downloads\Django_Login_System-main\orange_hrm_automation\venv\Lib\site-packages\pandas\core\generic.py", line 2439, in to_excel
+    formatter.write(
+  File "C:\Users\hp\Downloads\Django_Login_System-main\orange_hrm_automation\venv\Lib\site-packages\pandas\io\formats\excel.py", line 943, in write
+    writer = ExcelWriter(
+             ^^^^^^^^^^^^
+  File "C:\Users\hp\Downloads\Django_Login_System-main\orange_hrm_automation\venv\Lib\site-packages\pandas\io\excel\_openpyxl.py", line 61, in __init__
+    super().__init__(
+  File "C:\Users\hp\Downloads\Django_Login_System-main\orange_hrm_automation\venv\Lib\site-packages\pandas\io\excel\_base.py", line 1246, in __init__
+    self._handles = get_handle(
+                    ^^^^^^^^^^^
+  File "C:\Users\hp\Downloads\Django_Login_System-main\orange_hrm_automation\venv\Lib\site-packages\pandas\io\common.py", line 882, in get_handle
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'exports/employees.xlsx'
+2025-12-16 15:08:43,691 - INFO - 127.0.0.1 - - [16/Dec/2025 15:08:43] "POST / HTTP/1.1" 200 -
+2025-12-16 15:08:44,059 - INFO - 127.0.0.1 - - [16/Dec/2025 15:08:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-12-16 15:10:17,163 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-16 15:10:17,164 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-16 15:10:17,170 - INFO -  * Restarting with stat
+2025-12-16 15:10:20,436 - WARNING -  * Debugger is active!
+2025-12-16 15:10:20,436 - INFO -  * Debugger PIN: 282-827-810
+2025-12-16 15:10:35,576 - INFO - ====== WebDriver manager ======
+2025-12-16 15:10:38,185 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 15:10:38,454 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 15:10:38,674 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-16 15:10:41,220 - INFO - Opening OrangeHRM website
+2025-12-16 15:10:46,366 - INFO - Login successful
+2025-12-16 15:10:49,323 - INFO - Navigated to PIM
+2025-12-16 15:10:52,871 - INFO - Employee saved
+2025-12-16 15:11:09,103 - INFO - 127.0.0.1 - - [16/Dec/2025 15:11:09] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-12-16 15:11:09,645 - INFO - 127.0.0.1 - - [16/Dec/2025 15:11:09] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-12-16 15:11:09,648 - INFO - 127.0.0.1 - - [16/Dec/2025 15:11:09] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-12-16 15:11:09,745 - INFO - 127.0.0.1 - - [16/Dec/2025 15:11:09] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=9g6NX0QLGQA9ERJ7qUjX HTTP/1.1" 200 -
+2025-12-16 15:11:10,093 - INFO - 127.0.0.1 - - [16/Dec/2025 15:11:10] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-12-16 15:11:23,887 - INFO - ====== WebDriver manager ======
+2025-12-16 15:11:26,470 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 15:11:26,736 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 15:11:26,957 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-16 15:11:28,262 - INFO - Opening OrangeHRM website
+2025-12-16 15:11:34,600 - INFO - Login successful
+2025-12-16 15:11:37,704 - INFO - Navigated to PIM
+2025-12-16 15:11:40,045 - INFO - Employee saved
+2025-12-16 15:11:49,540 - INFO - Employee list loaded
+2025-12-16 15:11:51,307 - INFO - Extracted 27 employees
+2025-12-16 15:11:51,993 - INFO - Exported files: exports/employees_20251216_151151.csv, exports/employees_20251216_151151.xlsx
+2025-12-16 15:11:51,993 - INFO - Employee data exported to CSV and Excel
+2025-12-16 15:11:53,204 - INFO - Logout successful
+2025-12-16 15:11:55,691 - INFO - 127.0.0.1 - - [16/Dec/2025 15:11:55] "POST / HTTP/1.1" 200 -
+2025-12-16 15:11:55,735 - INFO - 127.0.0.1 - - [16/Dec/2025 15:11:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-12-16 15:13:38,451 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-16 15:13:38,451 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-16 15:13:38,458 - INFO -  * Restarting with stat
+2025-12-16 15:13:42,503 - WARNING -  * Debugger is active!
+2025-12-16 15:13:42,511 - INFO -  * Debugger PIN: 282-827-810
+2025-12-16 15:13:42,691 - INFO - 127.0.0.1 - - [16/Dec/2025 15:13:42] "GET / HTTP/1.1" 200 -
+2025-12-16 15:13:42,867 - INFO - 127.0.0.1 - - [16/Dec/2025 15:13:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
